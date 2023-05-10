@@ -753,10 +753,10 @@ team_api_id,team_long_name,league_name,team_measured_date,buildUpPlaySpeed,build
 8537,Livorno,Italy Serie A,2013-09-20,58,Balanced,,Little,55,Mixed,Organised,52,Normal,57,Normal,63,Normal,Free Form,58,Medium,49,Press,56,Normal,Cover
 8537,Livorno,Italy Serie A,2014-09-19,58,Balanced,58.0,Normal,67,Long,Organised,38,Normal,23,Little,77,Lots,Organised,29,Deep,57,Press,32,Narrow,Cover
 8537,Livorno,Italy Serie A,2015-09-10,58,Balanced,58.0,Normal,67,Long,Organised,38,Normal,27,Little,69,Lots,Organised,31,Deep,57,Press,38,Normal,Cover
-8244,Widzew Łódź,Poland Ekstraklasa,2011-02-22,63,Balanced,,Little,48,Mixed,Organised,48,Normal,68,Lots,53,Normal,Organised,37,Medium,58,Press,63,Normal,Cover
-8244,Widzew Łódź,Poland Ekstraklasa,2012-02-22,66,Balanced,,Little,72,Long,Organised,70,Risky,61,Normal,54,Normal,Organised,32,Deep,32,Contain,62,Normal,Cover
-8244,Widzew Łódź,Poland Ekstraklasa,2013-09-20,66,Balanced,,Little,59,Mixed,Organised,43,Normal,61,Normal,54,Normal,Organised,32,Deep,43,Press,46,Normal,Cover
-8244,Widzew Łódź,Poland Ekstraklasa,2014-09-19,66,Balanced,52.0,Normal,72,Long,Organised,66,Normal,67,Lots,51,Normal,Organised,36,Medium,38,Press,65,Normal,Cover
+8024,Widzew Łódź,Poland Ekstraklasa,2011-02-22,63,Balanced,,Little,48,Mixed,Organised,48,Normal,68,Lots,53,Normal,Organised,37,Medium,58,Press,63,Normal,Cover
+8024,Widzew Łódź,Poland Ekstraklasa,2012-02-22,66,Balanced,,Little,72,Long,Organised,70,Risky,61,Normal,54,Normal,Organised,32,Deep,32,Contain,62,Normal,Cover
+8024,Widzew Łódź,Poland Ekstraklasa,2013-09-20,66,Balanced,,Little,59,Mixed,Organised,43,Normal,61,Normal,54,Normal,Organised,32,Deep,43,Press,46,Normal,Cover
+8024,Widzew Łódź,Poland Ekstraklasa,2014-09-19,66,Balanced,52.0,Normal,72,Long,Organised,66,Normal,67,Lots,51,Normal,Organised,36,Medium,38,Press,65,Normal,Cover
 9994,Sporting Lokeren,Belgium Jupiler League,2010-02-22,60,Balanced,,Little,60,Mixed,Organised,50,Normal,40,Normal,50,Normal,Organised,65,Medium,65,Press,70,Wide,Cover
 9994,Sporting Lokeren,Belgium Jupiler League,2011-02-22,66,Balanced,,Little,53,Mixed,Organised,48,Normal,46,Normal,52,Normal,Organised,48,Medium,58,Press,55,Normal,Cover
 9994,Sporting Lokeren,Belgium Jupiler League,2012-02-22,67,Fast,,Little,52,Mixed,Organised,51,Normal,50,Normal,50,Normal,Organised,45,Medium,52,Press,52,Normal,Cover
@@ -857,8 +857,6 @@ team_api_id,team_long_name,league_name,team_measured_date,buildUpPlaySpeed,build
 9927,Motherwell,Scotland Premier League,2013-09-20,67,Fast,,Little,54,Mixed,Organised,49,Normal,47,Normal,58,Normal,Organised,39,Medium,43,Press,64,Normal,Cover
 9927,Motherwell,Scotland Premier League,2014-09-19,70,Fast,47.0,Normal,55,Mixed,Organised,42,Normal,47,Normal,60,Normal,Organised,41,Medium,43,Press,62,Normal,Cover
 9927,Motherwell,Scotland Premier League,2015-09-10,64,Balanced,46.0,Normal,55,Mixed,Organised,44,Normal,45,Normal,27,Little,Organised,37,Medium,44,Press,51,Normal,Cover
-274581,Royal Excel Mouscron,Belgium Jupiler League,2015-09-10,50,Balanced,50.0,Normal,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover
-9996,Royal Excel Mouscron,Belgium Jupiler League,2015-09-10,50,Balanced,50.0,Normal,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover
 9996,Royal Excel Mouscron,Belgium Jupiler League,2015-09-10,50,Balanced,50.0,Normal,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover
 9761,NAC Breda,Netherlands Eredivisie,2010-02-22,30,Slow,,Little,35,Mixed,Organised,35,Normal,40,Normal,60,Normal,Organised,30,Deep,30,Contain,30,Narrow,Cover
 9761,NAC Breda,Netherlands Eredivisie,2011-02-22,33,Slow,,Little,44,Mixed,Free Form,35,Normal,40,Normal,60,Normal,Organised,42,Medium,47,Press,54,Normal,Cover
@@ -994,8 +992,6 @@ team_api_id,team_long_name,league_name,team_measured_date,buildUpPlaySpeed,build
 8023,Pogoń Szczecin,Poland Ekstraklasa,2013-09-20,67,Fast,,Little,54,Mixed,Organised,56,Normal,62,Normal,67,Lots,Organised,47,Medium,47,Press,63,Normal,Cover
 8023,Pogoń Szczecin,Poland Ekstraklasa,2014-09-19,50,Balanced,48.0,Normal,36,Mixed,Free Form,52,Normal,36,Normal,52,Normal,Organised,50,Medium,60,Press,47,Normal,Cover
 8023,Pogoń Szczecin,Poland Ekstraklasa,2015-09-10,50,Balanced,33.0,Little,36,Mixed,Organised,52,Normal,40,Normal,52,Normal,Organised,57,Medium,54,Press,47,Normal,Cover
-8031,Polonia Bytom,Poland Ekstraklasa,2010-02-22,30,Slow,,Little,50,Mixed,Organised,45,Normal,35,Normal,70,Lots,Organised,60,Medium,70,Double,55,Normal,Cover
-8031,Polonia Bytom,Poland Ekstraklasa,2011-02-22,46,Balanced,,Little,38,Mixed,Organised,36,Normal,33,Little,53,Normal,Organised,53,Medium,54,Press,55,Normal,Cover
 2183,P. Warszawa,Poland Ekstraklasa,2010-02-22,30,Slow,,Little,40,Mixed,Organised,45,Normal,40,Normal,70,Lots,Organised,55,Medium,65,Press,55,Normal,Cover
 2183,P. Warszawa,Poland Ekstraklasa,2011-02-22,33,Slow,,Little,47,Mixed,Organised,69,Risky,40,Normal,53,Normal,Organised,55,Medium,34,Press,51,Normal,Cover
 2183,P. Warszawa,Poland Ekstraklasa,2012-02-22,34,Balanced,,Little,45,Mixed,Organised,39,Normal,67,Lots,74,Lots,Organised,31,Deep,32,Contain,50,Normal,Cover
@@ -1393,10 +1389,6 @@ team_api_id,team_long_name,league_name,team_measured_date,buildUpPlaySpeed,build
 10001,KVC Westerlo,Belgium Jupiler League,2011-02-22,34,Balanced,,Little,52,Mixed,Free Form,66,Normal,48,Normal,53,Normal,Organised,48,Medium,59,Press,67,Wide,Cover
 10001,KVC Westerlo,Belgium Jupiler League,2012-02-22,52,Balanced,,Little,50,Mixed,Organised,59,Normal,60,Normal,32,Little,Organised,48,Medium,45,Press,53,Normal,Cover
 10001,KVC Westerlo,Belgium Jupiler League,2015-09-10,52,Balanced,46.0,Normal,50,Mixed,Organised,57,Normal,55,Normal,32,Little,Organised,48,Medium,45,Press,53,Normal,Cover
-8024,Widzew Łódź,Poland Ekstraklasa,2011-02-22,63,Balanced,,Little,48,Mixed,Organised,48,Normal,68,Lots,53,Normal,Organised,37,Medium,58,Press,63,Normal,Cover
-8024,Widzew Łódź,Poland Ekstraklasa,2012-02-22,66,Balanced,,Little,72,Long,Organised,70,Risky,61,Normal,54,Normal,Organised,32,Deep,32,Contain,62,Normal,Cover
-8024,Widzew Łódź,Poland Ekstraklasa,2013-09-20,66,Balanced,,Little,59,Mixed,Organised,43,Normal,61,Normal,54,Normal,Organised,32,Deep,43,Press,46,Normal,Cover
-8024,Widzew Łódź,Poland Ekstraklasa,2014-09-19,66,Balanced,52.0,Normal,72,Long,Organised,66,Normal,67,Lots,51,Normal,Organised,36,Medium,38,Press,65,Normal,Cover
 8528,Wigan Athletic,England Premier League,2010-02-22,70,Fast,,Little,70,Long,Organised,70,Risky,70,Lots,50,Normal,Organised,35,Medium,70,Double,35,Normal,Cover
 8528,Wigan Athletic,England Premier League,2011-02-22,35,Balanced,,Little,50,Mixed,Organised,45,Normal,65,Normal,50,Normal,Organised,45,Medium,55,Press,65,Normal,Cover
 8528,Wigan Athletic,England Premier League,2012-02-22,38,Balanced,,Little,38,Mixed,Organised,54,Normal,42,Normal,42,Normal,Organised,40,Medium,42,Press,44,Normal,Cover
