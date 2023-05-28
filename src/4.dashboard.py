@@ -17,9 +17,10 @@ from datetime import date
 import joblib
 
 # %%
-server = Flask(__name__)
-app = dash.Dash(__name__, server = server, external_stylesheets = [dbc.themes.BOOTSTRAP])
+#server = Flask(__name__)
+app = dash.Dash(__name__, external_stylesheets = [dbc.themes.BOOTSTRAP])
 app.config.suppress_callback_exceptions=True
+server = app.server
 
 
 # %%
