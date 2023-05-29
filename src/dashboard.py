@@ -1057,4 +1057,5 @@ def elo_rate_chart_interactive(recent_num_year, data):
 # %%
 # ------------------------------------------------------------------------------
 # Run the App
-app.run_server(debug = True)
+if __name__ == "__main__":
+    app.run_server(debug = True)
