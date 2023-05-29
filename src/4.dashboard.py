@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 import numpy as np 
-import sqlite3 as sql 
+#import sqlite3 as sql 
 
 import plotly.express as px  
 import plotly.graph_objects as go
@@ -11,7 +11,7 @@ import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 from dash import dash_table, html, dcc
 
-from flask import Flask
+#from flask import Flask
 from datetime import date
 
 import joblib
