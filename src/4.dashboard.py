@@ -55,14 +55,17 @@ CONTENT_STYLE = {
 # Import and clean data 
 
 # Load basic data
-con = sql.connect("../data/database.sqlite")
-org_league = pd.read_sql(
-    "select * from League", con
-    )
+# con = sql.connect("../data/database.sqlite")
+# org_league = pd.read_sql(
+#     "select * from League", con
+#     )
 
-org_team = pd.read_sql(
-    "select * from Team", con
-    )
+# org_team = pd.read_sql(
+#     "select * from Team", con
+#     )
+
+org_league = pd.read_csv("../data/org_league.csv")
+org_team = pd.read_csv("../data/org_team.csv")
 
 df_match_basic = pd.read_csv("../data/df_match_basic.csv")
 
