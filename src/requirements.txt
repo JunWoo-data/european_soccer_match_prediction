@@ -5,3 +5,4 @@ joblib
 gunicorn
 datetime
 dash-bootstrap-components
+scikit-learn
