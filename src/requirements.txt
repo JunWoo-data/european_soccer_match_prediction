@@ -4,3 +4,4 @@ numpy
 joblib
 gunicorn
 datetime
+dash-bootstrap-components
